@@ -2,6 +2,9 @@
 
 **Français · [English](README.en.md)**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 TrustID est la famille de sécurité locale des identités et des postes d'Elyne Corp. Elle associe des signaux comportementaux, des contrôles du système, un score de confiance et des réponses prévues par la politique de l'exploitant.
 
 | Édition | Présentation | État affiché sur le site |

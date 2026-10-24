@@ -2,6 +2,9 @@
 
 **English · [Français](README.md)**
 
+**Proprietary documentation — all rights reserved.** No reuse beyond GitHub platform functions is authorized without the rights holders' written consent. [Rights notice](NOTICE.md).
+[Elyne Corp product map](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 TrustID is Elyne Corp's family of local identity and endpoint security products. It combines behavioral signals, system checks, a trust score, and responses governed by the operator's policy.
 
 | Edition | Overview | Status shown on the website |
